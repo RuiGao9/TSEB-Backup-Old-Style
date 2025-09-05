@@ -57,8 +57,9 @@ Extract and copy all TSEB files to either:
 Follow a similar process for installing `pyPro4Sail`:
     - Repository: https://github.com/hectornieto/pyPro4Sail
     - Or download `pypro4sail-master.zip` from this repository.
-6. Installing Py6S Python Interface: `pip install Py6S`.
-7. Done.
+6. Installing Py6S Python Interface:
+   ```pip install Py6S```
+8. Done.
 
 You should now be ready to run the TSEB model within your ArcGIS Pro-compatible Python environment.
 
